@@ -1,0 +1,49 @@
+import java.util.Scanner;
+
+public class Main {
+  String nome;
+  private int energia;
+  private int fome;
+  private int sono;
+
+  public Main(String nome, int energia, int fome, int sono){
+    this.nome = nome;
+    this.energia = energia;
+    this.fome = fome;
+    this.sono = sono;
+  }
+
+  public void exibirEstado(){
+    System.out.println(": energia:" + energia + "fome:" + fome + "sono" + sono);
+  }
+
+  public void dormir(int horas){
+    this.sono += horas;
+    exibirEstado();
+  }
+
+  public void comer(int kg){
+    this.fome += kg;
+    exibirEstado();
+  }
+
+  public void exercitar(int horas){
+    this.energia += horas;
+    exibirEstado();
+  }
+
+  public static void main(String[] args){
+    Main novoPersonagem = new Main("Jonas", 10, 10, 10);
+    novoPersonagem.exibirEstado();
+    novoPersonagem.dormir(8);
+    novoPersonagem.comer(20);
+    novoPersonagem.exercitar(2);
+  }
+  
+  
+  
+
+  
+  
+  
+}
