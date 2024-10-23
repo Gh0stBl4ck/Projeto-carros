@@ -1,7 +1,7 @@
-<h1 align="center"> Cartão de Visitas </h1>
+<h1 align="center"> Concessionária de Luxo </h1>
 
 <p align="center">
-Cartão de Visitas com informações de um designer gráfico profissional
+Página inicial de concessionária de carros de luxo 
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ Cartão de Visitas com informações de um designer gráfico profissional
 <br>
 
 <p align="center">
-  <img alt="Cartão de Visita" src=".github/Printcar.png" width="100%">
+  <img alt="Concessionária" src=".github/Printcar.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -25,9 +25,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Apresento o Cartão de Visitas Digital, uma forma prática e elegante de compartilhar informações de contato, exibir projetos e conectar com as redes sociais. Ideal para perfis comerciais no Instagram e outras plataformas, facilitando a interação com clientes e parceiros de maneira rápida e profissional.
+Este projeto consiste na criação de um site dinâmico para a exibição e gestão de veículos, voltado para concessionárias, revendas de carros, ou qualquer empresa que deseje mostrar seu catálogo de veículos de forma profissional e acessível.
 
 
 ---
 
-Feito por Riquelme Guedes
+Feito por Guilherme Lins Oliveira.
