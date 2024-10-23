@@ -12,7 +12,7 @@ Cartão de Visitas com informações de um designer gráfico profissional
 <br>
 
 <p align="center">
-  <img alt="Cartão de Visita" src="." width="100%">
+  <img alt="Cartão de Visita" src=".github/printcar" width="100%">
 </p>
 
 ## 🚀 Tecnologias
