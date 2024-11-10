@@ -13,7 +13,7 @@ Página inicial de concessionária de carros de luxo
 <br>
 
 <p align="center">
-  <img alt="Concessionária" src=".github/Printcar.png" width="100%">
+  <img alt="Concessionária" src="Projetos.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
